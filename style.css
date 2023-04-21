@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    background-image: url(https://t4.ftcdn.net/jpg/01/79/07/77/360_F_179077796_P6UNHX6KBpb1hITJSF1gN173qw4GF98U.jpg);
+}
+
+body{
+}
+
+h1 {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:whitesmoke;
+}
+.stawar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h3 {
+    text-align: center;
+    color: lightgoldenrodyellow;
+}
+
+.empire{
+    background-color: rgb(122, 8, 8);
+        width: 80%;
+        margin-left: 10%;
+        border: 2px solid rgb(255, 255, 255);
+}
+.header1a{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#DV{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: larger;
+}
+.daveider{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    opacity: 100%;
+}
+.etomname{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    border: 2px solid rgb(212, 73, 73);
+    letter-spacing: 5px;
+    
+}
+.etomputer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    opacity: 100%;
+}
+.apoyo {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: large;
+}
+.walker {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    opacity: 100%;
+}
+.subtitulos_imperio {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: large;
+}
+.tf {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: large;
+}
+.tifiter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    opacity: 100%;
+}
+
+.rebels{
+    background-color: blue;
+    border: 2px solid rgb(255, 255, 255);
+    width: 80%;
+     margin-left: 10%;
+
+}
+.headera {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#SW {
+    text-align: center;
+    font-family: 'Times New Roman', Times, italic;
+    font-size: larger;
+}
+.eskaiwalker {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    opacity: 100%;
+}
+.droides{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: large;
+}
+.apoyo{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: large;
+}
+
+.tank{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: large;
+}
+.tan {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    opacity: 100%;
+}
+.falcon{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: large;
+}
+.falco{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    opacity: 100%;
+}
+.xwin{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, italic;
+    font-size: large;
+}
+.xwi{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    opacity: 100%;
+}
